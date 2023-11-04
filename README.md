@@ -6,5 +6,5 @@ This is a simple pomodoro timer that I made to practice my React skills. It is b
 
 ## Links
 
-- [Live Demo](https://pomodoro-timer-ten.vercel.app/)
-- [Repository](
+- [Live Demo](https://pomodoroclock-abhi.netlify.app/)
+- [Repository](https://github.com/AbhinavGupta-de/pomodoro-clock)
